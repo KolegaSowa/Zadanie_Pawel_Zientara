@@ -1,0 +1,15 @@
+﻿@model IEnumerable<Zadanie.Models.Osoby>
+@{
+    ViewData["Title"] = "showAll";
+}
+
+<h1>showAll</h1>
+
+<ol>
+    @foreach (var osoba in Model)
+    {
+        <li>
+            @osoba.ID - @osoba.Imie - @osoba.Nazwisko - @osoba.DataUrodzenia - @osoba.Adres
+        </li>
+    }
+</ol>

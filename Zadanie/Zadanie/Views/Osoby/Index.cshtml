@@ -1,0 +1,25 @@
+﻿@model Zadanie.Models.Osoby
+
+@using (Html.BeginForm("Add", "Osoby", FormMethod.Post))
+{
+    @Html.ValidationSummary()
+    <h2>Dodaj osobę</h2>
+    <label for="Imie">Imię:</label> @Html.TextBoxFor(m => m.Imie)
+    <label for="Nazwisko">Nazwisko:</label>  @Html.TextBoxFor(m => m.Nazwisko)
+    <label for="DataUrodzenia">Data urodzenia:</label> @Html.TextBoxFor(m => m.DataUrodzenia)
+    <label for="Adres">Adres:</label>  @Html.TextBoxFor(m => m.Adres)
+    <button type="submit">Dodaj</button>
+}
+
+@using (Html.BeginForm("ShowAll", "Osoby", FormMethod.Get))
+{
+    <h2>Wyświetl wszystkie osoby</h2>
+    <button type="submit">Wyświetl wszystkie</button>
+}
+
+@using (Html.BeginForm("ShowById", "Osoby", FormMethod.Get))
+{
+    <h2>Wyświetl osobę po ID</h2>
+    <label for="id">ID:</label> @Html.TextBox("id")
+    <button type="submit">Wyświetl</button>
+}

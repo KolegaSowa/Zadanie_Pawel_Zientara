@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pawel\\Desktop\\Zadanie_Pawel_Zientara\\Zadanie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{313EC7D4-8006-4680-9A99-2201A3374A50}|Zadanie\\Zadanie.csproj|c:\\users\\pawel\\desktop\\zadanie_pawel_zientara\\zadanie\\zadanie\\controllers\\osobycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{313EC7D4-8006-4680-9A99-2201A3374A50}|Zadanie\\Zadanie.csproj|solutionrelative:zadanie\\controllers\\osobycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{313EC7D4-8006-4680-9A99-2201A3374A50}|Zadanie\\Zadanie.csproj|c:\\users\\pawel\\desktop\\zadanie_pawel_zientara\\zadanie\\zadanie\\services\\interfaces\\iososbyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{313EC7D4-8006-4680-9A99-2201A3374A50}|Zadanie\\Zadanie.csproj|solutionrelative:zadanie\\services\\interfaces\\iososbyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{313EC7D4-8006-4680-9A99-2201A3374A50}|Zadanie\\Zadanie.csproj|c:\\users\\pawel\\desktop\\zadanie_pawel_zientara\\zadanie\\zadanie\\services\\osobyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{313EC7D4-8006-4680-9A99-2201A3374A50}|Zadanie\\Zadanie.csproj|solutionrelative:zadanie\\services\\osobyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{313EC7D4-8006-4680-9A99-2201A3374A50}|Zadanie\\Zadanie.csproj|c:\\users\\pawel\\desktop\\zadanie_pawel_zientara\\zadanie\\zadanie\\views\\osoby\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{313EC7D4-8006-4680-9A99-2201A3374A50}|Zadanie\\Zadanie.csproj|solutionrelative:zadanie\\views\\osoby\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{313EC7D4-8006-4680-9A99-2201A3374A50}|Zadanie\\Zadanie.csproj|c:\\users\\pawel\\desktop\\zadanie_pawel_zientara\\zadanie\\zadanie\\views\\osoby\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{313EC7D4-8006-4680-9A99-2201A3374A50}|Zadanie\\Zadanie.csproj|solutionrelative:zadanie\\views\\osoby\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "showAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\pawel\\Desktop\\Zadanie_Pawel_Zientara\\Zadanie\\Zadanie\\Views\\Osoby\\showAll.cshtml",
+              "RelativeDocumentMoniker": "Zadanie\\Views\\Osoby\\showAll.cshtml",
+              "ToolTip": "C:\\Users\\pawel\\Desktop\\Zadanie_Pawel_Zientara\\Zadanie\\Zadanie\\Views\\Osoby\\showAll.cshtml",
+              "RelativeToolTip": "Zadanie\\Views\\Osoby\\showAll.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T10:32:45.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pawel\\Desktop\\Zadanie_Pawel_Zientara\\Zadanie\\Zadanie\\Views\\Osoby\\Index.cshtml",
+              "RelativeDocumentMoniker": "Zadanie\\Views\\Osoby\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pawel\\Desktop\\Zadanie_Pawel_Zientara\\Zadanie\\Zadanie\\Views\\Osoby\\Index.cshtml",
+              "RelativeToolTip": "Zadanie\\Views\\Osoby\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T10:10:12.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OsobyServices.cs",
+              "DocumentMoniker": "C:\\Users\\pawel\\Desktop\\Zadanie_Pawel_Zientara\\Zadanie\\Zadanie\\Services\\OsobyServices.cs",
+              "RelativeDocumentMoniker": "Zadanie\\Services\\OsobyServices.cs",
+              "ToolTip": "C:\\Users\\pawel\\Desktop\\Zadanie_Pawel_Zientara\\Zadanie\\Zadanie\\Services\\OsobyServices.cs",
+              "RelativeToolTip": "Zadanie\\Services\\OsobyServices.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwCUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:52:18.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IOsosbyServices.cs",
+              "DocumentMoniker": "C:\\Users\\pawel\\Desktop\\Zadanie_Pawel_Zientara\\Zadanie\\Zadanie\\Services\\Interfaces\\IOsosbyServices.cs",
+              "RelativeDocumentMoniker": "Zadanie\\Services\\Interfaces\\IOsosbyServices.cs",
+              "ToolTip": "C:\\Users\\pawel\\Desktop\\Zadanie_Pawel_Zientara\\Zadanie\\Zadanie\\Services\\Interfaces\\IOsosbyServices.cs",
+              "RelativeToolTip": "Zadanie\\Services\\Interfaces\\IOsosbyServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:52:15.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OsobyController.cs",
+              "DocumentMoniker": "C:\\Users\\pawel\\Desktop\\Zadanie_Pawel_Zientara\\Zadanie\\Zadanie\\Controllers\\OsobyController.cs",
+              "RelativeDocumentMoniker": "Zadanie\\Controllers\\OsobyController.cs",
+              "ToolTip": "C:\\Users\\pawel\\Desktop\\Zadanie_Pawel_Zientara\\Zadanie\\Zadanie\\Controllers\\OsobyController.cs",
+              "RelativeToolTip": "Zadanie\\Controllers\\OsobyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:25:48.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
